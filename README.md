@@ -1,1 +1,1 @@
-# CS583B_project
+Formal to informal style transfer on GYAFC dataset
